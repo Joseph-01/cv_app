@@ -1,0 +1,29 @@
+main {
+    background-color: #4240A3;
+    height: 23rem;
+    display: flex;
+}
+
+.details {
+    margin-left: 5rem;
+}
+
+
+.creative {
+    font-size:4.5rem;
+    padding: 2rem 5rem;
+    color: aliceblue;
+
+}
+
+.lorem {
+    font-size: 2rem;
+    padding: 0 4rem 2rem 4rem;
+    color: aliceblue;
+}
+
+.picture {
+    height: 20rem;
+    width: 20rem;
+    margin: 0 10rem;
+}

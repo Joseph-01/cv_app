@@ -1,11 +1,11 @@
-
 import Navbar from "./components/navbar/navbar";
+import Main from "./components/body/body";
 
 function App() {
   return (
     <div className="App">
       <Navbar />
-      <h1>My react first page</h1>
+      <Main />
       <div ></div>
     </div>
   );
