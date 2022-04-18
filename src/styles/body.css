@@ -1,29 +1,26 @@
 main {
     background-color: #4240A3;
-    height: 23rem;
-    display: flex;
+    height: 18rem;
 }
 
 .details {
-    margin-left: 5rem;
+    padding: 2rem 5rem 2rem 5rem;
+    text-align: center;
 }
 
+.my-name {
+    font-size: 1.2rem;
+    font-weight: bold;
+    padding: 1rem 8rem 1rem 8rem;
+    color: #937F88;
+    
+}
 
 .creative {
-    font-size:4.5rem;
-    padding: 2rem 5rem;
+    font-size:3rem;
+    font-weight: 800;
+    padding: 1rem 5rem;
     color: aliceblue;
-
+    margin-bottom: 2rem;
 }
 
-.lorem {
-    font-size: 2rem;
-    padding: 0 4rem 2rem 4rem;
-    color: aliceblue;
-}
-
-.picture {
-    height: 20rem;
-    width: 20rem;
-    margin: 0 10rem;
-}
