@@ -1,6 +1,8 @@
-import Navbar from "./components/navbar/navbar";
-import Main from "./components/body/body";
-import MoreDetails from "./components/body/more_details";
+import React from "react"
+import "./styles/reset.css"
+import Navbar from "./components/navbar/navbar"
+import Main from "./components/body/body"
+import MoreDetails from "./components/body/more_details"
 // import "./App.css";
 
 

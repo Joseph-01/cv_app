@@ -1,10 +1,10 @@
 main {
     background-color: #4240A3;
-    height: 18rem;
+    height: 20rem;
 }
 
 .details {
-    padding: 2rem 5rem 2rem 5rem;
+    padding: 1rem 2rem 2rem 5rem;
     text-align: center;
 }
 
@@ -19,8 +19,8 @@ main {
 .creative {
     font-size:3rem;
     font-weight: 800;
-    padding: 1rem 5rem;
+    padding: 1rem 3rem;
     color: aliceblue;
-    margin-bottom: 2rem;
+    margin-bottom: 1rem;
 }
 

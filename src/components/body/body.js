@@ -9,7 +9,7 @@ function Main() {
         <main>
             <div className="details">
                 <p className="my-name">MY NAME IS JOSEPH ISIBOR</p>
-                <p className="creative">I am a creative software developer from Nigeria</p>
+                <p className="creative">I am a creative software developer from Nigeria, working with HTML, CSS, Javascript, node.js, react.js</p>
                 <Button>Conatct Me</Button>
             </div>
         </main>
